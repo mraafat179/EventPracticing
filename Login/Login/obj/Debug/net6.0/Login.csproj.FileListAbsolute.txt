@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\Login\Login\bin\Debug\net6.0\Login.exe
+C:\Users\dell\source\repos\Login\Login\bin\Debug\net6.0\Login.deps.json
+C:\Users\dell\source\repos\Login\Login\bin\Debug\net6.0\Login.runtimeconfig.json
+C:\Users\dell\source\repos\Login\Login\bin\Debug\net6.0\Login.dll
+C:\Users\dell\source\repos\Login\Login\bin\Debug\net6.0\Login.pdb
+C:\Users\dell\source\repos\Login\Login\obj\Debug\net6.0\Login.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Login\Login\obj\Debug\net6.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Login\Login\obj\Debug\net6.0\Login.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Login\Login\obj\Debug\net6.0\Login.AssemblyInfo.cs
+C:\Users\dell\source\repos\Login\Login\obj\Debug\net6.0\Login.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Login\Login\obj\Debug\net6.0\Login.dll
+C:\Users\dell\source\repos\Login\Login\obj\Debug\net6.0\refint\Login.dll
+C:\Users\dell\source\repos\Login\Login\obj\Debug\net6.0\Login.pdb
+C:\Users\dell\source\repos\Login\Login\obj\Debug\net6.0\Login.genruntimeconfig.cache
+C:\Users\dell\source\repos\Login\Login\obj\Debug\net6.0\ref\Login.dll
